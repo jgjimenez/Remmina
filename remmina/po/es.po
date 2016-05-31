@@ -124,15 +124,15 @@ msgstr "Progreso"
 
 #: remmina/src/remmina_survey.c:454
 msgid "Do you agree to share some usage statistics with us?"
-msgstr ""
+msgstr "¿Está de acuerdo para compartir algunas estadísticas de uso con nosotros?"
 
 #: remmina/src/remmina_survey.c:458
 msgid "By pressing the yes button, you're not yet sending any data."
-msgstr ""
+msgstr "Al pulsar el botón sí, Usted aún no está enviando ningún dato."
 
 #: remmina/src/remmina_survey.c:460
 msgid "_Do not show this dialog again"
-msgstr ""
+msgstr "_No mostrar este diálogo de nuevo"
 
 #: remmina/src/remmina_applet_menu_item.c:115
 msgid "Discovered"
@@ -223,17 +223,17 @@ msgstr "Modo pantalla completa con barras de desplazamiento"
 
 #: remmina/src/remmina_connection_window.c:1134
 msgid "Keep aspect ratio when scaled"
-msgstr ""
+msgstr "Mantener relación del aspecto cuando se escala"
 
 #: remmina/src/remmina_connection_window.c:1144
 msgid "Fill client window when scaled"
-msgstr ""
+msgstr "Rellenar la ventana del cliente cuando se escala"
 
 #: remmina/src/remmina_connection_window.c:1530
 #: remmina/src/remmina_pref_dialog.c:106
 #: remmina/ui/remmina_preferences.glade:276
 msgid "Keystrokes"
-msgstr ""
+msgstr "Pulsaciones de tecla"
 
 #: remmina/src/remmina_connection_window.c:1623
 msgid ""
